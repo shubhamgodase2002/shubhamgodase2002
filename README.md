@@ -9,7 +9,7 @@
 ## 🔍 About Me
 
 - 🎓 **M.Tech Student** in Modeling and Simulation  
-- 🏢 **Intern at Dassault Systèmes (SIMULIA)**  
+- 🏢 **Intern at Dassault Systèmes (SIMULIA R&D)**  
 - 💡 Researching **Self-Supervised Learning for 3D Model Processing**  
 - 🔍 Specializing in **Signed Distance Functions (SDF), Computational Geometry, and Neural Networks**  
 - 💻 Skilled in **Python, PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, and Seaborn**  
