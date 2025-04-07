@@ -52,35 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" />
-</p>
-
-### 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" />
-</p>
-
-### 🎮 Contribution Snake Game
-
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎁 Give Me
-
-💡 If you find my work useful, consider:
-- ⭐ **Starring my repositories**
-- 🔔 **Following to stay updated with my latest research**
-- 🤝 **Collaborating if you’re working on AI, 3D Geometry, or Computational Modeling**
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
