@@ -22,7 +22,7 @@
 ### 🟢 Signed Distance Function (SDF) Learning
 - Developed a **SIREN-based neural network** for SDF approximation  
 - Built a **self-supervised learning pipeline** for classifying 3D model points  
-- Utilizing **Thingi10K & ShapeNet datasets** for training & evaluation  
+- Utilizing **Thingi10K & ShapeNet datasets** for training & evaluation.
 
 ### 🔵 Prisoner’s Dilemma - Game Theory
 - Implemented **reactive, grim trigger, Pavlov, and ZD strategies**  
