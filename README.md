@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-- 🎓 **M.Tech Student** in Modeling and Simulation  
+- 🎓 **M.Tech Student** in Modeling and Simulation. 
 - 🏢 **Intern at Dassault Systèmes (SIMULIA R&D)**  
 - 💡 Researching **Self-Supervised Learning for 3D Model Processing**  
 - 🔍 Specializing in **Signed Distance Functions (SDF), Computational Geometry, and Neural Networks**  
