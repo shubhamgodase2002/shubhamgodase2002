@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | M.Tech in Modeling & Simulation | AI & ML Enthusiast**  
 🔬 Passionate about **Mathematical Modeling, Deep Learning, Game Theory, and Optimization**  
-📊 Experienced in **ML/DL, 3D Geometric Learning, SDF Computation, and AI Research**
+📊 Experienced in **ML/DL, 3D Geometric Learning, SDF Computation, and AI Research**.
 
 ---
 
