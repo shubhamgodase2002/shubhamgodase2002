@@ -34,7 +34,7 @@
 
 ### 🔴 SIR Model with Population Growth
 - Simulated **SIR model with a constant birth rate** using the **RK4 method**  
-- Enhanced traditional **epidemiological models** with population dynamics  
+- Enhanced traditional **epidemiological models** with population dynamics.  
 
 ---
 
